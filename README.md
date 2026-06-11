@@ -15,17 +15,6 @@ End-to-end machine learning pipeline for the Kaggle / IBM Telco Customer Churn d
 
 ---
 
-## Application Output
-
-<p align="center">
-  <img src="image/imagesoutput.png.png" alt="Telco Customer Churn Predictor" width="900">
-</p>
-
-<p align="center">
-  <b>Telco Customer Churn Predictor - Streamlit Dashboard</b>
-</p>
-
----
 
 ## Expected Dataset
 
@@ -149,6 +138,17 @@ AZENTRIX-FULLSTACK-TASK2/
     ├── eda_summary.md
     └── model_comparison.csv
 ```
+## Application Output
+
+<p align="center">
+  <img src="image/imagesoutput.png.png" alt="Telco Customer Churn Predictor" width="900">
+</p>
+
+<p align="center">
+  <b>Telco Customer Churn Predictor - Streamlit Dashboard</b>
+</p>
+
+---
 
 ---
 
